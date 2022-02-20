@@ -2,8 +2,7 @@
 ### Welcome to my github profile.
 
 - 🔭 Atualmente trabalho como supervisor de vendas em uma empresa de suprimnentos, sou formado em Processos Gerenciais.
-- 🌱 Curso Análise e Desenvolvimento de Sistemas
-Atualmente foco meus estudos em: Algoritimos, POO, Python, Java, inglês
+- 🌱 Curso Análise e Desenvolvimento de Sistemas e atualmente foco meus estudos em: Algoritimos, POO, Python, Java, inglês
 - 🤔 Todo tipo de conhecimento, como iniciante toda ajuda é mais que bem vinda!
 - 📫 Java para Back-end
 
